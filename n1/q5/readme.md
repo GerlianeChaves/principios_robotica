@@ -1,9 +1,4 @@
-<p align="center">
-  <a href="" rel="noopener">
- <img width=200px height=200px src="https://i.imgur.com/6wj0hh6.jpg" alt="Project logo"></a>
-</p>
-
-<h3 align="center">Project Jackal</h3>
+<h3 align="center">QUESTÃO 5</h3>
 
 <div align="center">
 
@@ -16,7 +11,7 @@
 
 ---
 
-<p align="center"> Few lines describing your project.
+<p align="justify"> Este repositório contém informações referentes à questão 5 da primeira atividade avaliativa da disciplina de Principios de Robótica.
     <br> 
 </p>
 
@@ -32,43 +27,36 @@
 - [Authors](#authors)
 - [Acknowledgments](#acknowledgement)
 
-## 🧐 About <a name = "about"></a>
+## 🧐 QUESTÃO 5 <a name = "about"></a>
 
-Write about 1-2 paragraphs describing the purpose of your project.
+Elabore um sistema que leia a distância de um sensor ultrassom e acenda um LED
+vermelho sempre que a distância for menor ou igual a 10 cm e verde quando for maior
+que 10 cm.
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See [deployment](#deployment) for notes on how to deploy the project on a live system.
+A solução dessa questão envolve duas etapas: software e hardware. Ambos serão desenvolvidos por meio da plataforma  [ThinkerCad](#deployment).
 
 ### Prerequisites
 
-What things you need to install the software and how to install them.
+Não será necessário nenhuma instalação, apenas garantas ter um aparelho eletrônico com acesso à internet.
 
-```
-Give examples
-```
+Serão utilizados:
 
-### Installing
-
-A step by step series of examples that tell you how to get a development env running.
-
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo.
+- Arduino Uno;
+- Sensor ultrassônico;
+- LEDs;
+- Resistores;
+- Jumpers.
 
 ## 🔧 Running the tests <a name = "tests"></a>
 
 Explain how to run the automated tests for this system.
+
+<p align="center">
+  <a href="" rel="noopener">
+ <img width=200px height=200px src="q5.png" alt="Diagrama de montagem no Thinkercad"></a>
+</p> 
 
 ### Break down into end to end tests
 
