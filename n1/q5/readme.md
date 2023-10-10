@@ -15,6 +15,7 @@
     <br> 
 </p>
 
+<!--
 ## 📝 Table of Contents
 
 - [About](#about)
@@ -26,6 +27,7 @@
 - [Contributing](../CONTRIBUTING.md)
 - [Authors](#authors)
 - [Acknowledgments](#acknowledgement)
+-->
 
 ## 🧐 QUESTÃO 5 <a name = "about"></a>
 
@@ -35,8 +37,17 @@ que 10 cm.
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
 
-A solução dessa questão envolve duas etapas: software e hardware. Ambos serão desenvolvidos por meio da plataforma  [ThinkerCad](#deployment).
+A figura a seguir apresenta o circuito montado para a solução desssa questão.
 
+Assegure-se de ter uma boa conexão com a internet e realize a montagem pelo ThinkerCad.
+
+
+<p align="center">
+  <a href="" rel="noopener">
+ <img width=200px height=200px src="q5.png" alt="Project logo"></a>
+</p>
+
+<!--
 ### Prerequisites
 
 Não será necessário nenhuma instalação, apenas garantas ter um aparelho eletrônico com acesso à internet.
@@ -100,3 +111,4 @@ See also the list of [contributors](https://github.com/kylelobo/The-Documentatio
 - Hat tip to anyone whose code was used
 - Inspiration
 - References
+-->

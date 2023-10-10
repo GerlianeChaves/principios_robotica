@@ -1,9 +1,9 @@
-<p align="center">
+<!--<p align="center">
   <a href="" rel="noopener">
  <img width=200px height=200px src="https://i.imgur.com/6wj0hh6.jpg" alt="Project logo"></a>
-</p>
+</p> -->
 
-<h3 align="center">Project Jackal</h3>
+<h3 align="center">PRIMEIRA AVALIAÇÃO</h3>
 
 <div align="center">
 
@@ -16,10 +16,12 @@
 
 ---
 
-<p align="center"> Few lines describing your project.
+<p align="JUSTIFY"> Para a resolução Desta atividade serão permitidas equipes de até 3 alunos. As diretivas são simples, o que dão liberdade para a  Equipe poder escolher quais dispositivos e equipamentos serão utilizados em cada questão. O microcontrolador utilizado será o Arduino Uno R3. Sugiro que os sistemas sejam montados no TinkerCAD (https://www.tinkercad.com/) visto que esta plataforma é free e o arquivo pode ser compartilhado entre os membros da equipe e o professor
+que irá corrigir.
     <br> 
 </p>
 
+<!--
 ## 📝 Table of Contents
 
 - [About](#about)
@@ -112,3 +114,4 @@ See also the list of [contributors](https://github.com/kylelobo/The-Documentatio
 - Hat tip to anyone whose code was used
 - Inspiration
 - References
+-->

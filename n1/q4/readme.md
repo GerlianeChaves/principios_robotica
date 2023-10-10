@@ -1,9 +1,5 @@
-<p align="center">
-  <a href="" rel="noopener">
- <img width=200px height=200px src="https://i.imgur.com/6wj0hh6.jpg" alt="Project logo"></a>
-</p>
 
-<h3 align="center">Project Jackal</h3>
+<h3 align="center">QUESTÃO 4</h3>
 
 <div align="center">
 
@@ -15,7 +11,7 @@
 </div>
 
 ---
-
+<!--
 <p align="center"> Few lines describing your project.
     <br> 
 </p>
@@ -31,15 +27,23 @@
 - [Contributing](../CONTRIBUTING.md)
 - [Authors](#authors)
 - [Acknowledgments](#acknowledgement)
-
+-->
 ## 🧐 About <a name = "about"></a>
 
-Write about 1-2 paragraphs describing the purpose of your project.
+Elabore um sistema que faça um micro servo motor girar de 0° a 180° e depois retornar a 0°, pulando sempre de 15° em 15° e ficando parado na posição por 5s.
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See [deployment](#deployment) for notes on how to deploy the project on a live system.
+A figura a seguir apresenta o circuito montado para a solução desssa questão.
 
+Assegure-se de ter uma boa conexão com a internet e realize a montagem pelo ThinkerCad.
+
+<p align="center">
+  <a href="" rel="noopener">
+ <img width=200px height=200px src="q4.png" alt="Project logo"></a>
+</p>
+
+<!--
 ### Prerequisites
 
 What things you need to install the software and how to install them.
@@ -112,3 +116,4 @@ See also the list of [contributors](https://github.com/kylelobo/The-Documentatio
 - Hat tip to anyone whose code was used
 - Inspiration
 - References
+-->

@@ -1,4 +1,4 @@
-<h3 align="center">QUESTÃO 5</h3>
+<h3 align="center">QUESTÃO 6</h3>
 
 <div align="center">
 
@@ -11,10 +11,11 @@
 
 ---
 
-<p align="justify"> Este repositório contém informações referentes à questão 5 da primeira atividade avaliativa da disciplina de Principios de Robótica.
+<p align="justify"> Este repositório contém informações referentes à questão 6 da primeira atividade avaliativa da disciplina de Principios de Robótica.
     <br> 
 </p>
 
+<!--
 ## 📝 Table of Contents
 
 - [About](#about)
@@ -26,17 +27,21 @@
 - [Contributing](../CONTRIBUTING.md)
 - [Authors](#authors)
 - [Acknowledgments](#acknowledgement)
+-->
+## 🧐 QUESTÃO 6 <a name = "about"></a>
 
-## 🧐 QUESTÃO 5 <a name = "about"></a>
-
-Elabore um sistema que leia a distância de um sensor ultrassom e acenda um LED
-vermelho sempre que a distância for menor ou igual a 10 cm e verde quando for maior
-que 10 cm.
+Elabore um sistema que utilizando um infravermelho TCRT5000 possa mapear os botões de um controle remoto.
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
 
 A solução dessa questão envolve duas etapas: software e hardware. Ambos serão desenvolvidos por meio da plataforma  [ThinkerCad](#deployment).
 
+<p align="center">
+  <a href="" rel="noopener">
+ <img width=200px height=200px src="q6.png" alt="Project logo"></a>
+</p>
+
+<!--
 ### Prerequisites
 
 Não será necessário nenhuma instalação, apenas garantas ter um aparelho eletrônico com acesso à internet.
@@ -100,3 +105,4 @@ See also the list of [contributors](https://github.com/kylelobo/The-Documentatio
 - Hat tip to anyone whose code was used
 - Inspiration
 - References
+-->
