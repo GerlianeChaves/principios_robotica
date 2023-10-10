@@ -1,9 +1,4 @@
-<p align="center">
-  <a href="" rel="noopener">
- <img width=200px height=200px src="https://i.imgur.com/6wj0hh6.jpg" alt="Project logo"></a>
-</p>
-
-<h3 align="center">Project Jackal</h3>
+<h3 align="center">PRINCIPIOS DE ROBÓTICA</h3>
 
 <div align="center">
 
@@ -16,10 +11,11 @@
 
 ---
 
-<p align="center"> Few lines describing your project.
+<p align="justify"> Este respositório foi desenvolvido para a disciplina de Principios de Robótica ofertada pelo IFMA/Imperatriz 2023.2. Aqui você encontrará as principais atividades e avaliações desenvolvidas na disciplina. 
     <br> 
 </p>
 
+<!--
 ## 📝 Table of Contents
 
 - [About](#about)
@@ -112,3 +108,4 @@ See also the list of [contributors](https://github.com/kylelobo/The-Documentatio
 - Hat tip to anyone whose code was used
 - Inspiration
 - References
+-->
