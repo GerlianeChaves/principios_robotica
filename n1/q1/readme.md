@@ -1,9 +1,6 @@
-<p align="center">
-  <a href="" rel="noopener">
- <img width=200px height=200px src="https://i.imgur.com/6wj0hh6.jpg" alt="Project logo"></a>
-</p>
 
-<h3 align="center">Project Jackal</h3>
+
+<h3 align="center">QUESTÃO 1</h3>
 
 <div align="center">
 
@@ -12,10 +9,12 @@
 [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/kylelobo/The-Documentation-Compendium.svg)](https://github.com/kylelobo/The-Documentation-Compendium/pulls)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
 
+
 </div>
 
 ---
 
+<!--
 <p align="center"> Few lines describing your project.
     <br> 
 </p>
@@ -31,15 +30,24 @@
 - [Contributing](../CONTRIBUTING.md)
 - [Authors](#authors)
 - [Acknowledgments](#acknowledgement)
-
+-->
 ## 🧐 About <a name = "about"></a>
 
-Write about 1-2 paragraphs describing the purpose of your project.
+Elabore um sistema que gire um motor DC em uma direção e quando um botão for
+pressionado que ele gire para a outra direção.
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See [deployment](#deployment) for notes on how to deploy the project on a live system.
+A figura a seguir apresenta o circuito montado para a solução desssa questão.
 
+Assegure-se de ter uma boa conexão com a internet e realize a montagem pelo ThinkerCad.
+
+<p align="center">
+  <a href="" rel="noopener">
+ <img width=200px height=200px src="q1.png" alt="Project logo"></a>
+</p>
+
+<!--
 ### Prerequisites
 
 What things you need to install the software and how to install them.
@@ -112,3 +120,4 @@ See also the list of [contributors](https://github.com/kylelobo/The-Documentatio
 - Hat tip to anyone whose code was used
 - Inspiration
 - References
+-->
