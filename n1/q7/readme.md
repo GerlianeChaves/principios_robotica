@@ -33,8 +33,9 @@
 -->
 ## 🧐 About <a name = "about"></a>
 
-Elabore um sistema que utilizando um infravermelho TCRT5000 possa receber os sinais de um controle remoto (mapeado na questão anterior) e faça com que ele atue em cima de um motor, girando-o para um lado ou outro, dependendo do botão pressionado. Configure também 8 diferentes velocidades que atuarão diretamente no motor quando
-pressionado as teclas.
+Elabore um sistema que utilizando um infravermelho TCRT5000 possa receber os sinais de um controle remoto (mapeado na questão anterior) e faça com que ele atue em cima de um motor, girando-o para um lado ou outro, dependendo do botão pressionado. Configure também 8 diferentes velocidades que atuarão diretamente no motor quando pressionado as teclas.
+
+O projeto pode ser consultado na integra em: <a href="https://www.tinkercad.com/things/h61gpkLt8wX-questao7/editel?sharecode=sRywQ-epgB414e-JmB1wIYRUFarDD_2wEkl39fshrCk">Projeto no ThinkerCad</a> 
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
 

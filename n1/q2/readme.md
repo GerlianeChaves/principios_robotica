@@ -32,6 +32,9 @@
 ## 🧐 About <a name = "about"></a>
 
 Elabore um sistema que leia um potenciômetro e que o mesmo controle a velocidade de um motor DC.
+
+O projeto pode ser consultado na integra em: <a href="https://www.tinkercad.com/things/e4tEoLEIM3f?sharecode=RhqGEBNGYZ5I_rnjEJX7p__2prP5UWB3Rgrzmef7Fcc">Projeto no ThinkerCad</a>
+
 ## 🏁 Getting Started <a name = "getting_started"></a>
 
 A figura a seguir apresenta o circuito montado para a solução desssa questão.

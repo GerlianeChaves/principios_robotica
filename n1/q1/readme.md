@@ -36,6 +36,8 @@
 Elabore um sistema que gire um motor DC em uma direção e quando um botão for
 pressionado que ele gire para a outra direção.
 
+O projeto pode ser consultado na integra em: <a href="https://www.tinkercad.com/things/2kV9xGokgB9?sharecode=jY2vhQ4VeCrLNjlMYMTPFFU3TE2ktQrsK76MkDe1ADs">Projeto no ThinkerCad</a>
+
 ## 🏁 Getting Started <a name = "getting_started"></a>
 
 A figura a seguir apresenta o circuito montado para a solução desssa questão.

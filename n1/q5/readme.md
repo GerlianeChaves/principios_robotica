@@ -11,8 +11,9 @@
 
 ---
 
-<p align="justify"> Este repositório contém informações referentes à questão 5 da primeira atividade avaliativa da disciplina de Principios de Robótica.
-    <br> 
+<p align="justify"> Este repositório contém informações referentes à questão 5 da primeira atividade avaliativa da disciplina de Principios de Robótica.<br> 
+
+O projeto pode ser consultado na integra em: <a href="https://www.tinkercad.com/things/eFJs1Itcy94-questao5/editel?sharecode=3ARKBTGBGHX6A4V7Emv9bHZaYvmG6hDOuvHQRALEtV4">Projeto no ThinkerCad</a>
 </p>
 
 <!--

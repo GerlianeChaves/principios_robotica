@@ -32,6 +32,7 @@
 
 Elabore um sistema que faça um micro servo motor girar de 0° a 180° e depois retornar a 0°, pulando sempre de 15° em 15° e ficando parado na posição por 5s.
 
+
 ## 🏁 Getting Started <a name = "getting_started"></a>
 
 A figura a seguir apresenta o circuito montado para a solução desssa questão.

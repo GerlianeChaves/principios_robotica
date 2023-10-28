@@ -33,6 +33,8 @@
 Elabore um sistema que leia um LDR e que dependendo da intensidade luz incidente o
 motor deverá girar mais rápido ou mais lento (quanto mais luz mais rápido).
 
+O projeto pode ser consultado na integra em: <a href="https://www.tinkercad.com/things/42yQY8pRXjM?sharecode=MY_TtHnBbcupU8nS9VwHoYwpIo1ZKBIpImA5GzrupBk">Projeto no ThinkerCad</a>
+
 ## 🏁 Getting Started <a name = "getting_started"></a>
 
 A figura a seguir apresenta o circuito montado para a solução desssa questão.

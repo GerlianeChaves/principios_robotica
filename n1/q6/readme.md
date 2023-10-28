@@ -13,6 +13,8 @@
 
 <p align="justify"> Este repositório contém informações referentes à questão 6 da primeira atividade avaliativa da disciplina de Principios de Robótica.
     <br> 
+
+O projeto pode ser consultado na integra em: <a href="https://www.tinkercad.com/things/73267J4oJWu-questao6/editel?sharecode=RS2qcBouuobPgN2jlI_T1JJ1pkNRGX5NwHYOT2bKqcQ">Projeto no ThinkerCad</a>    
 </p>
 
 <!--

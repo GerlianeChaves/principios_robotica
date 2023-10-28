@@ -34,6 +34,9 @@
 ## 🧐 About <a name = "about"></a>
 
 Elabore um sistema que leia continuamente a temperatura de um sensor de temperatura, compare-a com a temperatura  desejada (28°C) e ajuste a saída do  tuador (cooler) para manter a temperatura próxima ao valor desejado. Isso envolve a implementação de um controlador PID simples. DICA: use a biblioteca PID_v1.h.
+
+O projeto pode ser consultado na integra em: <a href="https://www.tinkercad.com/things/bBbZwQcsUNU-questao9/editel?sharecode=VGhdtNmM0Bm7rkP52vErhqCJL2C63OBIrVCmO68ktSM">Projeto no ThinkerCad</a>
+
 ## 🏁 Getting Started <a name = "getting_started"></a>
 
 A figura a seguir apresenta o circuito montado para a solução desssa questão.
