@@ -38,7 +38,6 @@ void seguir(){
 
 void desvio(){
   Serial.println("Desviando");
-  //M1.setSpeed(150);
   M1.run(FORWARD); //girar o motor que está ao lado do sensor
   M4.run(RELEASE);
 }
