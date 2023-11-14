@@ -11,7 +11,10 @@
 //bibliotecas
 #include <AFMotor.h>
 #include <Ultrasonic.h>
+#include <Servo.h>
 
+// servo motor
+#define pin_servo 6
 //sensor ultrassonico
 #define echo1 A0
 #define trigger1 A1
@@ -24,8 +27,13 @@ Ultrasonic ultrasonic2 (trigger2, echo2);
 AF_DCMotor M1(1);
 AF_DCMotor M4(4);
 
+Servo servo; // Variável Servo
+int pos; // Posição Servo
+
 void setup(){
   Serial.begin(9600);
+  servo.attach(pin_servo);
+  servo.write(0); // Inicia motor posição zero
   M1.setSpeed(255);
   M4.setSpeed(255);
 }
