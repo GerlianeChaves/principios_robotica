@@ -66,8 +66,4 @@ void loop(){
   }
   
   Serial.println(dist_sensor1);
-//  motor.setSpeed(200);
-//  M3.run(FORWARD);
-//  motor3.run(FORWARD);
-//  delay(5000);
 }
