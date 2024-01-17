@@ -25,8 +25,8 @@ Ultrasonic ultrasonic(trigger, echo);
 
 void setup() {
   //Configuração de velocidade dos motores
-  motor_esquerda.setSpeed(255);
-  motor_direita.setSpeed(255);
+  motor_esquerda.setSpeed(200);
+  motor_direita.setSpeed(200);
   Serial.begin(9600); //Habilita a comunicação serial
   pinMode(sensor_esquerda, INPUT); // Configura o pino do sensor da esquerda como entrada
   pinMode(sensor_direita, INPUT); // Configura o pino do sensor da direita como entrada
@@ -52,14 +52,14 @@ void loop() {
   Serial.println(analogRead(sensor_traseira));
   
   //Verifica se tem alguma coisa na sua frente e se os sensor estão no branco
-  if (distancia > 15 && distancia > 0 && digitalRead(sensor_direita) == 1 && digitalRead(sensor_traseira) == 1) {
+  if (distancia > 15 && distancia > 0 && digitalRead(sensor_direita) == 1 || digitalRead(sensor_esquerda) == 1 && digitalRead(sensor_traseira) == 1) {
     Serial.println("procurando oponente");
     //Duas formas de procurar o oponente na arena
     procura();//Procura em forma de quadrado
   }
    //Se caso encontrar algo na sua frente
-  if (distancia < 15 && distancia > 0 && digitalRead(sensor_direita) == 1 && digitalRead(sensor_traseira) == 1) {
-    while (digitalRead(sensor_direita) == 1) { //Prende na condição até o sensor encotrar a borda da arena
+  if (distancia < 15 && distancia > 0 && (digitalRead(sensor_direita) == 1 || digitalRead(sensor_esquerda) == 1) && digitalRead(sensor_traseira) == 1) {
+    while (digitalRead(sensor_direita) == 1 || digitalRead(sensor_esquerda) == 1) { //Prende na condição até o sensor encotrar a borda da arena
       Serial.println("achei o oponente");
       frente();//Movimenta para frente
     }
@@ -104,7 +104,7 @@ void esquerda() {
 //********************Movimenta o robô em forma de quadrado********************
 void procura() {
   frente();
-  delay(3000);
+  delay(300);
   esquerda();
   delay(300);
 }
